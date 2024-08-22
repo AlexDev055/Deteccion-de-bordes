@@ -1,1 +1,1 @@
-# Detecci-n-de-objetos-con-opencv
+# Deteccion--de-objetos-con-opencv
